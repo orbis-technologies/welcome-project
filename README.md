@@ -18,7 +18,7 @@ Once you have npm installed, you can install Angular by running this on your loc
 
 npm install -g @angular/cli
 
-### Requirements
+#### Requirements
 - By clicking on 'upload', a profile image is uploaded and assigned to the user
 - Upon password fail, a mismatch red text appears, and user cannot register without fixing the issue.
 - After registering successfully, a modal screen appears
